@@ -1,0 +1,35 @@
+{
+  "bio":{
+    "name" : "Muhamad Muafi Istiqlal",
+    "age" : 27,
+    "sex" : "Men",
+    "quote" : "GTHMS",
+    "social_media":[
+      {"twitter":""},
+      {"linkedin":""},
+      {"instagram":""},
+      {"":""},
+      {"facebook":""}
+    ]
+  },
+  "education":{
+    "school_name":"Gunadarma University",
+    "start_date":"September 2013",
+    "end-date":"October 2017",
+    "major" : "Informatics Engineering",
+    "GPK" : "2.97"
+  },
+  "experience":{
+    "company":"Universitas Pertamina",
+    "start_date":"March 2020",
+    "end_date":"Present",
+    "position":"Web Developer"
+  },
+  "projects":{
+    "company":"Prime Academy",
+    "start_date":"February 2023",
+    "end_date":"Present",
+    "position":"Front End Developer",
+    "link":""
+  }
+}
