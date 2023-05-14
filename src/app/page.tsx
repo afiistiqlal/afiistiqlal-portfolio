@@ -8,12 +8,12 @@ import Projects from "@/components/Projects";
 export default function Home() {
   return (
     <>
-      <Head myName={''}/>
-      <AboutMe AboutMe={''}/>
+      <Head myName={""} />
+      <AboutMe AboutMe={""} />
       <Education />
-      <Experience/>
-      <Projects/>
-      <Footer myName={''}/>
+      <Experience />
+      <Projects />
+      <Footer myName={"Muhamad Muafi Istiqlal"} />
     </>
   );
 }
